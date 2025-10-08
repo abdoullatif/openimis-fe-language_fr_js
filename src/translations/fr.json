@@ -1587,6 +1587,7 @@
     "paymentPlan.DeletePaymentPlan.mutationLabel": "Supprimer le plan de paiement - {label}",
     "paymentPlan.ReplacePaymentPlan.mutationLabel": "Remplacer le plan de paiement - {label}",
     "mainMenu": "Services juridiques et financiers",
+    "invoiceMainMenu": "Gestion des factures",
     "emptyLabel": " ",
     "any": "Tous",
     "editButtonTooltip": "Modifier",
