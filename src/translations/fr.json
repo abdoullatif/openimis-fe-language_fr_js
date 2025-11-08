@@ -1562,7 +1562,7 @@
     "paymentPlan.code": "Code",
     "paymentPlan.name": "Nom",
     "paymentPlan.calculation": "Règle de calcul",
-    "paymentPlan.benefitPlan": "Garanties couvertes par le paquet de bénéfice",
+    "paymentPlan.benefitPlan": "Programme",
     "paymentPlan.periodicity": "Périodicité (nombre de mois)",
     "paymentPlan.dateValidFrom": "Valable à partir de",
     "paymentPlan.dateValidTo": "Valable jusqu'à",
